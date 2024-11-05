@@ -1,0 +1,81 @@
+
+msgid ""
+msgstr ""
+"Project-Id-Version: Sphinx-Book-Theme\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: cs\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "Search the docs ..."
+msgstr "Hledat v dokumentech ..."
+
+msgid "Download this page"
+msgstr "Stáhněte si tuto stránku"
+
+msgid "By the"
+msgstr "Podle"
+
+msgid "Launch"
+msgstr "Zahájení"
+
+msgid "previous page"
+msgstr "předchozí stránka"
+
+msgid "Toggle navigation"
+msgstr "Přepnout navigaci"
+
+msgid "Download source file"
+msgstr "Stáhněte si zdrojový soubor"
+
+msgid "Contents"
+msgstr "Obsah"
+
+msgid "Copyright"
+msgstr "autorská práva"
+
+msgid "suggest edit"
+msgstr "navrhnout úpravy"
+
+msgid "Download notebook file"
+msgstr "Stáhnout soubor poznámkového bloku"
+
+msgid "next page"
+msgstr "další strana"
+
+msgid "Source repository"
+msgstr "Zdrojové úložiště"
+
+msgid "Open an issue"
+msgstr "Otevřete problém"
+
+msgid "Last updated on"
+msgstr "Naposledy aktualizováno"
+
+msgid "Edit this page"
+msgstr "Upravit tuto stránku"
+
+msgid "Fullscreen mode"
+msgstr "Režim celé obrazovky"
+
+msgid "Theme by the"
+msgstr "Téma od"
+
+msgid "By"
+msgstr "Podle"
+
+msgid "Sphinx Book Theme"
+msgstr "Téma knihy Sfinga"
+
+msgid "Search this book..."
+msgstr "Hledat v této knize ..."
+
+msgid "repository"
+msgstr "úložiště"
+
+msgid "open issue"
+msgstr "otevřené číslo"
+
+msgid "Print to PDF"
+msgstr "Tisk do PDF"

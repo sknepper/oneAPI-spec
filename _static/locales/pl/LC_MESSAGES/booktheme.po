@@ -1,0 +1,81 @@
+
+msgid ""
+msgstr ""
+"Project-Id-Version: Sphinx-Book-Theme\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: pl\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "Search the docs ..."
+msgstr "Przeszukaj dokumenty ..."
+
+msgid "Download this page"
+msgstr "Pobierz tę stronę"
+
+msgid "By the"
+msgstr "Przez"
+
+msgid "Launch"
+msgstr "Uruchomić"
+
+msgid "previous page"
+msgstr "Poprzednia strona"
+
+msgid "Toggle navigation"
+msgstr "Przełącz nawigację"
+
+msgid "Download source file"
+msgstr "Pobierz plik źródłowy"
+
+msgid "Contents"
+msgstr "Zawartość"
+
+msgid "Copyright"
+msgstr "prawa autorskie"
+
+msgid "suggest edit"
+msgstr "zaproponuj edycję"
+
+msgid "Download notebook file"
+msgstr "Pobierz plik notatnika"
+
+msgid "next page"
+msgstr "Następna strona"
+
+msgid "Source repository"
+msgstr "Repozytorium źródłowe"
+
+msgid "Open an issue"
+msgstr "Otwórz problem"
+
+msgid "Last updated on"
+msgstr "Ostatnia aktualizacja"
+
+msgid "Edit this page"
+msgstr "Edytuj tę strone"
+
+msgid "Fullscreen mode"
+msgstr "Pełny ekran"
+
+msgid "Theme by the"
+msgstr "Motyw autorstwa"
+
+msgid "By"
+msgstr "Przez"
+
+msgid "Sphinx Book Theme"
+msgstr "Motyw książki Sphinx"
+
+msgid "Search this book..."
+msgstr "Przeszukaj tę książkę ..."
+
+msgid "repository"
+msgstr "magazyn"
+
+msgid "open issue"
+msgstr "otwarty problem"
+
+msgid "Print to PDF"
+msgstr "Drukuj do PDF"
